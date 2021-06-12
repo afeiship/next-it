@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://demo.com/api/static/images/f7128c5454ef48d431315169ac1c8faf.png",
+    "file": {
+      "path": "https://demo.com/api/static/images/f7128c5454ef48d431315169ac1c8faf.png",
+      "size": 0
+    }
+  },
+  {
+    "url": "https://demo.com/api/static/images/8ea7935faede52aa3891436fa5f0dd68.png",
+    "file": {
+      "path": "https://demo.com/api/static/images/8ea7935faede52aa3891436fa5f0dd68.png",
+      "size": 0
+    }
+  },
+  {
+    "url": "http://tmp/rYOV8lwCrW6885969266efbb54c322548e83ddd399e0.png",
+    "file": {
+      "path": "http://tmp/rYOV8lwCrW6885969266efbb54c322548e83ddd399e0.png",
+      "size": 792
+    }
+  }
+]
